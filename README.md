@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there! Hallo! ¡Hola! Merhaba! 👋
+
+I'm a PhD student and mathematician at TU Berlin doing Algebraic Statistics. 
+Besides that, my interests can be summed up as "if it's with algebraic geometry or computers, I love it".
+More specifically:
+- I ✨*love*✨ algebraic and tropical geometry (did I say that already?), 
+- computer graphics (I want to look at geometric stuff after all),
+- operating systems programming (not related to the stuff before but also I love to sink time there).
 
 <!--
 **ooinaruhugh/ooinaruhugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
